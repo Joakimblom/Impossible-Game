@@ -3,7 +3,8 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Ouch
   layers:
   - Default
   - TransparentFX
@@ -40,4 +41,13 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: New Layer 1
+    uniqueID: 1111102663
+    locked: 0
+  - name: New Layer 2
+    uniqueID: 1395984099
+    locked: 0
+  - name: New Layer 3
+    uniqueID: 2887856041
     locked: 0
