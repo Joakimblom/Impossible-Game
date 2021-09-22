@@ -136,10 +136,3 @@ Received Import Request.
   path: Assets/Script/PlayerScript.asset
   artifactKey: Guid(785d3c7627f6d2f4daac1d9728e5b6eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Script/PlayerScript.asset using Guid(785d3c7627f6d2f4daac1d9728e5b6eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '454e7a8e36f2a9ed15c2464eac6e2358') in 0.695164 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 263.490045 seconds.
-  path: Assets/Flow/SuperUnit/Grounded.asset
-  artifactKey: Guid(120d30bbae63477479096a2aef3fe5b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Flow/SuperUnit/Grounded.asset using Guid(120d30bbae63477479096a2aef3fe5b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '298f2616696d70d26c9ccbc37619a69d') in 0.008115 seconds 
-AssetImportWorkerClient::OnTransportError - code=2 error=End of file
