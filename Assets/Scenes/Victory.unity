@@ -592,6 +592,9 @@ MonoBehaviour:
   m_Text: 'Congratulations you made it.
 
 
+    Press spacebar to return to main menu.
+
+
 '
 --- !u!222 &1772069398
 CanvasRenderer:
